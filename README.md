@@ -1,8 +1,8 @@
 # Introduction
 
-At Strinkingly we are using Apache Kylin as our BI solution to have insight about
+At Strikingly we are using Apache Kylin as our BI solution to have insight about
 multiple data sources. We are also using Redash, an excellent open source dashboard
-service for drawing chart and generate report.
+service for drawing chart and generating report.
 
 So we made this plugin to let redash connect to Kylin without configuring any JDBC connections.
 After installed, you should be able to execute SQL query, test connections and list schemas upon
